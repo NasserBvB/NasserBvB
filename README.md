@@ -1,1 +1,1 @@
-# Hey There [👨 Social](#-social-)! I'm Nasser
+# Hey There (#-social-)! I'm Nasser
