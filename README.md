@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nasser <p align="center"> <img src="https://komarev.com/ghpvc/?username=nasserbvb&label=Profile%20views&color=0e75b6&style=flat" alt="nasserbvb" /> </p> </h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 
-
+<p align="center">
+<a href="https://app.daily.dev/NasserBvB"><img src="https://api.daily.dev/devcards/f5678679e8474374bd44ca77611c7e24.png?r=mgj" width="400" alt="Nasser's Dev Card"/></a></p>
 
 # Stats📈
 ## Contributions
