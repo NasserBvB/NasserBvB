@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/nbvbjs" target="blank"><img src="https://img.shields.io/twitter/follow/nbvbjs?logo=twitter&style=for-the-badge" alt="nbvbjs" /></a> </p>
 
 # Ask me
-- 💬 Ask me about **react, node.js ...**
+- 💬 Ask me about **react, next, node.js, swift, swiftui ...**
 
 # Connect with me
 <p align="left">
