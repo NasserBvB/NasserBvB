@@ -15,7 +15,6 @@
 
 # Connect with me
 <p align="left">
-<a href="https://dev.to/nasserbvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nasserbvb" height="30" width="40" /></a>
 <a href="https://twitter.com/nbvbjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nbvbjs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdennasser-es-sati-a7781a122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennasser-es-sati-a7781a122" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11738565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11738565" height="30" width="40" /></a>
