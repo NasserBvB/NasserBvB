@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasser <p align="center"> <img src="https://komarev.com/ghpvc/?username=nasserbvb&label=Profile%20views&color=0e75b6&style=flat" alt="nasserbvb" /> </p> </h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 
-
-# Stats📈
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NasserBvB&theme=highcontrast&hide_border=true" alt="astrodevil" />
-</p>
-
 # Follow me on Twitter
 <p align="left"> <a href="https://twitter.com/nbvbjs" target="blank"><img src="https://img.shields.io/twitter/follow/nbvbjs?logo=twitter&style=for-the-badge" alt="nbvbjs" /></a> </p>
 
